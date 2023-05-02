@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/core",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AIZEN",
+            "email": "welsa250@gmail.com"
+        }
+    ],
+    "require": {}
+}
